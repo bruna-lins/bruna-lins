@@ -7,8 +7,8 @@
 </h1>
 
 <div style="display: inline_block">
-    <img align="left" alt="Bruna-gif" height="150" style="border-radius:50px;" src="https://im2.ezgif.com/tmp/ezgif-2-d58ed0afd2.gif?width=676&height=676"> 
-  <p align="justify-content">
+    <img align="right" alt="Bruna-gif" height="150" src="https://im2.ezgif.com/tmp/ezgif-2-d58ed0afd2.gif?width=676&height=676"> 
+  <p align="left">
 - 🔭 Desenvolvedora Web FullStack (Recodepro)
     <br>
 - 🌱 Atualmente, aprofundo meus conhecimentos em ReactJS e SpringBoot.
@@ -18,10 +18,10 @@
   </p>  
   </div>
   
-  <div align="center">
+  <div align="left">
   <a href="https://github.com/bruna-lins">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruna-lins&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img " height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-lins&layout=compact&langs_count=7&theme=radical&border_radius=10"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=bruna-lins&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img " height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-lins&layout=compact&langs_count=7&theme=radical&border_radius=10"/>
 </div>
 
   <div>
