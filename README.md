@@ -6,19 +6,22 @@
   </a>
 </h1>
 
-  <p align="left">
+<div style="display: inline_block">
+    <img align="left" alt="Bruna-gif" height="150" style="border-radius:50px;" src="https://im2.ezgif.com/tmp/ezgif-2-d58ed0afd2.gif?width=676&height=676"> 
+  <p align="justify-content">
 - 🔭 Desenvolvedora Web FullStack (Recodepro)
     <br>
 - 🌱 Atualmente, aprofundo meus conhecimentos em ReactJS e SpringBoot.
     <br>
 - 📫 Contato: brunacalipin@gmail.com
     <br>
-  </p>
+  </p>  
+  </div>
   
   <div align="center">
   <a href="https://github.com/bruna-lins">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=bruna-lins&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img " height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-lins&layout=compact&langs_count=7&theme=radical&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruna-lins&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img " height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-lins&layout=compact&langs_count=7&theme=radical&border_radius=10"/>
 </div>
 
   <div>
@@ -44,11 +47,12 @@
   <img alt="Bruna-Github" height="30" width="40" title="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img alt="Bruna-Vscode" height="30" width="40" title="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img alt="Bruna-VisualStudio" height="30" width="40" title="VisualStudio"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  <img alt="Bruna-Figma" height="30" width="40" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img alt="Bruna-Figma" height="30" width="40" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />                                                                                                                           
 </div>
   </div>
-   
+  
 <div align="center">
+      
   <br>
    <a href="https://www.linkedin.com/in/brulins/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://brunacalipin.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
