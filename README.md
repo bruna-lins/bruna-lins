@@ -20,8 +20,8 @@
   
   <div align="left">
   <a href="https://github.com/bruna-lins">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=bruna-lins&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
   <img " height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-lins&layout=compact&langs_count=7&theme=radical&border_radius=10"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=bruna-lins&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
 </div>
 
   <div>
