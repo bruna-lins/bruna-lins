@@ -7,7 +7,7 @@
 </h1>
 
 <div style="display: inline_block">
-    <img align="right" alt="Bruna-gif" height="150" src="https://im2.ezgif.com/tmp/ezgif-2-d58ed0afd2.gif?width=676&height=676"> 
+   <a href="https://ibb.co/CKzhCWw"><img src="https://i.ibb.co/CKzhCWw/bruna-gif.gif" align="right" alt="ilustração representativa" border="0"></a>
   <p align="left">
 - 🔭 Desenvolvedora Web FullStack (Recodepro)
     <br>
