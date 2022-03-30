@@ -9,9 +9,9 @@
 <div style="display: inline_block">
    <a href="https://ibb.co/CKzhCWw"><img src="https://i.ibb.co/CKzhCWw/bruna-gif.gif" align="right" alt="ilustração representativa" border="0"></a>
   <p align="left">
-- 🔭 Desenvolvedora Web FullStack (Recodepro)
+- 🔭 Desenvolvedora Web FullStack
     <br>
-- 🌱 Atualmente, aprofundo meus conhecimentos em ReactJS e SpringBoot.
+- 🌱 Atualmente, aprofundo meus conhecimentos em ReactJS e SpringBoot
     <br>
 - 📫 Contato: brunacalipin@gmail.com
     <br>
@@ -26,7 +26,7 @@
 
   <div>
     <br>
-      <h2 align="center"> 👩‍💻 Linguagens & Frameworks & Tools 👩‍💻</h2>
+      <h2 align="center"> 👩‍💻 Linguagens & Frameworks & Ferramentas 👩‍💻</h2>
     <br>
 <div align="center">
   <img alt="HTML" height="30" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
