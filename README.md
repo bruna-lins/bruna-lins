@@ -68,6 +68,6 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Obrigada+pela+visita!;&center=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=BA5ACA&center=true&vCenter=true&lines=Obrigada+pela+visita!">
   </a>
 </h1>
