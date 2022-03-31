@@ -12,7 +12,7 @@
     
 <h2>:woman_technologist: Sobre mim</h2>
   <p>
-:alien: Buscando pelo que me faz sentir viva
+:alien: Seguindo o que me motiva
     <br>
 :smile_cat: Amo gatinhos, tenho três!
   <br>
