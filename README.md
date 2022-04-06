@@ -16,7 +16,7 @@
     <br>
 :smile_cat: Amo gatinhos, tenho três!
   <br>
-:nerd_face: Atualmente, aprofundo meus conhecimentos em ReactJS e SpringBoot
+:nerd_face: Atualmente, aprofundo meus conhecimentos em React e Node
     <br>  
 :email: Contato: brunacalipin@gmail.com
     <br>
