@@ -16,7 +16,7 @@
     <br>
 :smile_cat: Amo gatinhos, tenho três!
   <br>
-:nerd_face: Atualmente, aprofundo meus conhecimentos em React e Node
+:nerd_face: Atualmente, aprofundo meus conhecimentos em Vue 3 e Typescript
     <br>  
 :email: Contato: brunacalipin@gmail.com
     <br>
