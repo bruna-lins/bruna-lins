@@ -14,8 +14,6 @@
   <p>
 :alien: Seguindo o que me motiva
     <br>
-:smile_cat: Amo gatinhos, tenho três!
-  <br>
 :nerd_face: Atualmente, aprofundo meus conhecimentos em Java e Typescript
     <br>  
 :email: Contato: brunacalipin@gmail.com
