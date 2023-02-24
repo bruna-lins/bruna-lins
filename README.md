@@ -22,11 +22,10 @@
   </div>
   
   <br>
-  <h2>:chart_with_upwards_trend: Minhas estatísticas no Github </h2>
+  <h2>:chart_with_upwards_trend: O que andei praticando </h2>
   <a href="https://github.com/bruna-lins">
   <img " height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-lins&layout=compact&langs_count=7&theme=radical&border_radius=10"/>
   <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruna-lins&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
 
   <div>
     <br>
