@@ -14,7 +14,7 @@
   <p>
 :alien: Following what motivates me
     <br>
-:nerd_face: Currently, I am deepening my knowledge in Java and Typescript
+:nerd_face: Currently, I'm focusing in Java and Typescript
     <br>  
 :email: Contact: brunacalipin@gmail.com
     <br>
