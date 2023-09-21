@@ -2,34 +2,34 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=BA5ACA&center=true&vCenter=true&width=500&lines=Oii!+Meu+nome+%C3%A9+Bruna+👋;Sou+uma+Desenvolvedora+FullStack;Fica+a+vontade!+🥰" alt="Oi, meu nome é Bruna. Fica a vontade">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=BA5ACA&center=true&vCenter=true&width=500&lines=Hii!+I'm+Bruna+👋;I'm+a+Back-End+Developer;Feel+free+to+explore!+🥰" alt="Hi, I'm Bruna. Feel free to explore">
   </a>
 </div>
 
 <div style="display: inline_block">
-   <a href="https://ibb.co/CKzhCWw"><img src="https://i.ibb.co/CKzhCWw/bruna-gif.gif" align="right" alt="ilustração representativa" border="0"></a>
+   <a href="https://ibb.co/CKzhCWw"><img src="https://i.ibb.co/CKzhCWw/bruna-gif.gif" align="right" alt="representative illustration" border="0"></a>
   <p align="left">
     
-<h2>:woman_technologist: Sobre mim</h2>
+<h2>:woman_technologist: About me</h2>
   <p>
-:alien: Seguindo o que me motiva
+:alien: Following what motivates me
     <br>
-:nerd_face: Atualmente, aprofundo meus conhecimentos em Java e Typescript
+:nerd_face: Currently, I am deepening my knowledge in Java and Typescript
     <br>  
-:email: Contato: brunacalipin@gmail.com
+:email: Contact: brunacalipin@gmail.com
     <br>
   </p>  
   </div>
   
   <br>
-  <h2>:chart_with_upwards_trend: O que andei praticando </h2>
+  <h2>:chart_with_upwards_trend: What am I practicing </h2>
   <a href="https://github.com/bruna-lins">
   <img " height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-lins&layout=compact&langs_count=7&theme=radical&border_radius=10"/>
   <br>
 
   <div>
     <br>
-      <h2 align="center"> 👩‍💻 Linguagens & Frameworks & Ferramentas </h2>
+      <h2 align="center"> 👩‍💻 Languages ​​& Frameworks & Tools </h2>
     <br>
 <div align="center">
   <img alt="HTML" height="30" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
@@ -58,6 +58,6 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=BA5ACA&center=true&vCenter=true&lines=Obrigada+pela+visita!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=BA5ACA&center=true&vCenter=true&lines=Thanks+for+you+visit!">
   </a>
 </h1>
